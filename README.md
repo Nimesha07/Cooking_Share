@@ -1,4 +1,4 @@
-**Cooking Share**
+**Cooking Share : Cooking & Skills Sharing App**
 
 🍳 Cooking Skills Sharing App
 The Cooking Skills Sharing App is a collaborative platform designed for food lovers to not just share recipes, but also manage their culinary posts, develop their cooking skills, and track their learning journey.
